@@ -1,0 +1,28 @@
+.SerchBar{
+    padding-top: 20px;
+}
+.search-text{
+    color: #252525;	 font-family: 'Lato', sans-serif, FontAwesome;	font-size: 16px;   
+}
+
+h2 {font-family: "Lato";font-size: 2.369em}
+
+.titleSection{
+padding-top: 20px;    
+height: 48px;	width: 273px;	color: #252525;	font-family: "Lato";	font-size: 37px;	line-height: 46px;}
+
+.title{
+    text-align: center;
+}
+.label{
+    padding-bottom: 5px;
+    font-size: 14px;
+    font-family: "Lato";
+}
+
+.ui-table.ui-widget{
+    padding-top: 30px;
+}
+.resetButton{
+    padding-top: 15px;
+}
